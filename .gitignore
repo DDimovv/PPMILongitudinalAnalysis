@@ -1,2 +1,5 @@
 *.csv
 .idea/
+urls/
+*cookies*.txt
+__pycache__/
